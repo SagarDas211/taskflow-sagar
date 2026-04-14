@@ -64,7 +64,7 @@ Assume only Docker and Docker Compose are installed.
 
 ```bash
 git clone https://github.com/your-name/taskflow
-cd taskflow-sagar
+cd taskflow
 cp .env.example .env
 docker compose up --build
 ```
